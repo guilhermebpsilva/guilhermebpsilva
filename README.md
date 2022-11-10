@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Silva, a former English teacher who decided to learn coding and change careers.
 
-- 👀 I’m interested in developing solutions for web and mobile.
+- 👀 I’m interested in developing solutions for web and mobile front-end.
 
 - 🌱 I’m currently learning Javascript.
 
